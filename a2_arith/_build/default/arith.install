@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/arith/META"
+  "_build/install/default/lib/arith/dune-package"
+  "_build/install/default/lib/arith/opam"
+]
+bin: [
+  "_build/install/default/bin/arith"
+]
